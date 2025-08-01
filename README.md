@@ -27,10 +27,6 @@ O [historiaparadormir.org](https://historiaparadormir.org) é um site dedicado �
 🔜 Novas historinhas e recursos de acessibilidade a caminho  
 📥 Implementação de sistema de envio de histórias por usuários (em planejamento)
 
-## 🌐 Acesse o site
-
-➡️ Acesse em: [https://historiaparadormir.org](https://historiaparadormir.org)
-
 ## 🤝 Contribuições
 
 Se você deseja contribuir com o projeto (correções, melhorias ou sugestões de historinhas), sinta-se à vontade para abrir uma issue ou enviar um pull request.
